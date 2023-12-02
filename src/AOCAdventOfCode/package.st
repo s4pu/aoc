@@ -1,4 +1,4 @@
 Package {
-	#'squeak_changestamp' : true,
-	#name : #AOCAdventOfCode
+	#name : #AOCAdventOfCode,
+	#'squeak_changestamp' : true
 }
