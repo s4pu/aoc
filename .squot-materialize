@@ -1,0 +1,10 @@
+OrderedCollection [
+	SquotTonelMapper {
+		#package : MCPackage {
+			#name : 'AOCAdventOfCode'
+		},
+		#path : FSAbsolutePath [
+			'src'
+		]
+	}
+]
