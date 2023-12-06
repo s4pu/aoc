@@ -1,6 +1,6 @@
 Class {
 	#name : #C3Symbol,
-	#superclass : #Object,
+	#superclass : #Challenge3,
 	#instVars : [
 		'x',
 		'y',

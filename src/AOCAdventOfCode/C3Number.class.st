@@ -1,6 +1,6 @@
 Class {
 	#name : #C3Number,
-	#superclass : #Object,
+	#superclass : #Challenge3,
 	#instVars : [
 		'y',
 		'xStart',

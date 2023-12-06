@@ -6,7 +6,7 @@ Class {
 
 {
 	#category : #'as yet unclassified',
-	#'squeak_changestamp' : 'leop 12/3/2023 14:07'
+	#'squeak_changestamp' : 'leop 12/5/2023 07:42'
 }
 Challenge3 class >> calcEnginePartNumFrom: aString [
 
@@ -69,7 +69,7 @@ Challenge3 class >> calcEnginePartNumFrom: aString [
 
 {
 	#category : #'as yet unclassified',
-	#'squeak_changestamp' : 'leop 12/3/2023 14:14'
+	#'squeak_changestamp' : 'leop 12/5/2023 07:42'
 }
 Challenge3 class >> calcGearRatiosFrom: aString [
 
